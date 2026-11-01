@@ -6,7 +6,7 @@
 ![Pandas](https://img.shields.io/badge/Vectorized_ETL-Pandas_%7C_OpenPyXL-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Security](https://img.shields.io/badge/Infosec-Zero_Hardcoded_Secrets-2EA44F?style=for-the-badge&logo=shield&logoColor=white)
 
-> **Executive Summary:** A production-grade, two-stage ETL and automated reporting framework engineered to eliminate database I/O bottlenecks during massive operational closures. By decoupling extraction from heavy analytical transformations via a local SQLite staging layer and a metadata-driven coordinate engine, this architecture reduced a **3-day manual consolidation cycle down to a 10-minute automated execution**.
+> **Summary:** A production-grade, two-stage ETL and automated reporting framework engineered to eliminate database I/O bottlenecks during massive operational closures. By decoupling extraction from heavy analytical transformations via a local SQLite staging layer and a metadata-driven coordinate engine, this architecture reduced a **3-day manual consolidation cycle down to a 10-minute automated execution**.
 
 ---
 
